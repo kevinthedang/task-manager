@@ -1,9 +1,12 @@
 # Task Manager
 
 ## Table of Contents
-* [Description](#description)
-* [Libraries / Environments](#libraries--environments)
-* [Credit](#credit)
+- [Task Manager](#task-manager)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Libraries / Environments](#libraries--environments)
+  - [To run](#to-run)
+  - [Credit](#credit)
 
 ## Description
 This application will be a simple task manager where a user can do the following:
